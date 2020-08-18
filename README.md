@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on Angular & .NET.
 - 🤔 I’m looking for help with AWS.
-- 💬 Ask me about anything.
-- 📫 How to reach me: kevaljthummar12@gmail.com
+- 💬 Ask me about Anything.
+- 📫 How to reach me: 
+   ✉️ kevaljthummar12@gmail.com
+   skype : live:keval_thummar
+  
 
