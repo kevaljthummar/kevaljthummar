@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about Anything.
 - 📫 How to reach me: </br>
    ✉️ kevaljthummar12@gmail.com </br>
-   skype : live:keval_thummar
+   :video_camera: skype:live:keval_thummar
   
 
