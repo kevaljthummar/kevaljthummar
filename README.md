@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with AWS.
 - 💬 Ask me about Anything.
 - 📫 How to reach me: </br>
-   ✉️ kevaljthummar12@gmail.com </br>
-   :video_camera: skype:live:keval_thummar
+      ✉️ kevaljthummar12@gmail.com </br>
+      :video_camera: skype:live:keval_thummar
   
 
