@@ -20,24 +20,24 @@ Here are some ideas to get you started:
 
 ### SKILLS
 #### PROGRAMMING
-- Angular
-- TypeScript
-- node.js
-- C#
-- Javascript
-- JQuery
-- Css
+• C#
+• Angular
+• node.js
+• TypeScript
+• Javascript
+• JQuery
+• Css
 
 #### DATABASE
-- PostgreSql
-- MongoDB
-- MySql
-- Oracle
+• PostgreSql
+• MongoDB
+• MySql
+• Oracle
 
 #### OTHERS
-- Azure DevOps (Manage Application LifeCycle)
-- Github, Git (Version Control)
-- RabbitMQ (Queue Management)
-- Redis
+• Azure DevOps (Manage Application LifeCycle)
+• Github, Git (Version Control)
+• RabbitMQ (Queue Management)
+• Redis
   
 
