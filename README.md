@@ -17,5 +17,27 @@ Here are some ideas to get you started:
 - 📫 How to reach me: </br>
      - ✉️ **kevaljthummar12@gmail.com**</br>
      - :video_camera: **skype: live:keval_thummar**
+
+### SKILLS
+#### PROGRAMMING
+- Angular
+- TypeScript
+- node.js
+- C#
+- Javascript
+- JQuery
+- Css
+
+#### DATABASE
+- PostgreSql
+- MongoDB
+- MySql
+- Oracle
+
+#### OTHERS
+- Azure DevOps (Manage Application LifeCycle)
+- Github, Git (Version Control)
+- RabbitMQ (Queue Management)
+- Redis
   
 
