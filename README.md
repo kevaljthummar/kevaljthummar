@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 
 ### SKILLS
 #### PROGRAMMING
-• C#
+• ReactJs
 • Angular
+• C#
 • node.js
 • TypeScript
 • Javascript
