@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 • node.js
 • TypeScript
 • Javascript
+• Solidity
 • JQuery
 • Css
 
