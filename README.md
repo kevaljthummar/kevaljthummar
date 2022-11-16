@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 • Oracle
 
 #### OTHERS
-• Azure DevOps (Manage Application LifeCycle)
 • Github, Git (Version Control)
 • RabbitMQ (Queue Management)
 • Redis
