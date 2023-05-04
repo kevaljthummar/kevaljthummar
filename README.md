@@ -19,20 +19,20 @@ Here are some ideas to get you started:
 
 ### SKILLS
 #### PROGRAMMING
-• ReactJs
 • Angular
 • C#
-• node.js
 • TypeScript
 • Javascript
+• node.js
+• ReactJs
 • Solidity
 • JQuery
 • Css
 
 #### DATABASE
+• MySql
 • PostgreSql
 • MongoDB
-• MySql
 • Oracle
 
 #### OTHERS
